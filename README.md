@@ -1,6 +1,6 @@
-#Junior Backend разработчик на Python/Django
+# Junior Backend разработчик на Python/Django
 
-##Ключевые компетенции
+## Ключевые компетенции
 1. Python 3
 2. ООП
 3. Регулярные выражения
@@ -12,13 +12,13 @@
 9. Git
 10. Docker
 
-###Дополнительно:
+### Дополнительно:
 1. HTML
 2. CSS
 3. JS
 4. React JS
 
-###Инструменты:
+### Инструменты:
 1. Pycharm
 2. GitHub
 3. dbdiagram
@@ -26,7 +26,7 @@
 5. Jira
 6. Linux
 
-##Опыт работы
+## Опыт работы
 
 1. Прохожу стажировку в Clovery на позиции FullStack разработчика.
  - Стек: Python/Django + DRF, React JS 
