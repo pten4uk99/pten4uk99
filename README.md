@@ -55,4 +55,4 @@
 - Познакомился с Docker. Запускал PostgreSQL и Redis в Docker контейнере
 - На базовом уровне научился работать с терминалом Linux
 
-Telegram: @pten4uk99
+Telegram: @pten4uk
