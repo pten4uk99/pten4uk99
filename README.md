@@ -4,13 +4,14 @@
 1. Python 3
 2. ООП
 3. Регулярные выражения
-4. Django
-5. Django Rest Framework
-6. PostgreSQL
-7. Redis
-8. Celery
-9. Git
-10. Docker
+4. unittest
+5. Django
+6. Django Rest Framework
+7. PostgreSQL
+8. Redis
+9. Celery
+10. Git
+11. Docker
 
 ### Дополнительно:
 1. HTML
