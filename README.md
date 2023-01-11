@@ -1,4 +1,4 @@
-# Junior Backend разработчик на Python
+# Backend разработчик на Python
 
 ## Ключевые компетенции
 1. Python 3
