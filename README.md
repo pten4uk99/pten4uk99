@@ -44,7 +44,7 @@
 
 ## Опыт работы
 
-1. Стажировка в Clovery на позиции FullStack разработчика.
+1. <b>Стажировка в Clovery на позиции FullStack разработчика.</b>
  - Стек: Python/Django + DRF, React JS 
 С помощью AJAX и DRF настраиваю взаимодействие Frontend и Backend. 
  - Освоил работу с Git в команде 
@@ -74,7 +74,7 @@
 которые были применены, в полном объеме.
 Ссылка на демонстрационный репозиторий проекта: https://github.com/pten4uk99/Lectonic
 
-2. Курсы SkillFactory FullStack Developer.
+2. <b>Курсы SkillFactory FullStack Developer.</b>
 - Стек: Python/Django, React JS. <br/>
 В рамках обучения:
 - Писал telegram бота на python
@@ -86,7 +86,7 @@
 - Работал с Docker. Запускал PostgreSQL и Redis в Docker контейнере
 - На базовом уровне научился работать с терминалом Linux
 
-3. Телеграм бот.
+3. <b> Телеграм бот.</b>
 - Стек: aiogram, postgresql, pullenti. <br>
 - Разобрался с библиотекой aiogram.
 - В целях более глубокого понимания SQL и баз данных, 
@@ -98,7 +98,7 @@
 
 <br> Ссылка на репозиторий проекта: https://github.com/pten4uk99/admission-bot
 
-4. CRM система для салона красоты.
+4. <b> CRM система для салона красоты. </b>
 - Стек: FastAPI, SQLAlchemy, ReactJS
 - Разобрался в основах работы фреймворка FastAPI
 - Освоил работу с орм системой SQLAlchemy
@@ -108,7 +108,7 @@
 
 Ссылка на демонстрационный репозиторий проекта: https://github.com/pten4uk99/CRM
 
-5. Сервис для общения пользователей и администраторов через телеграм.
+5. <b> Сервис для общения пользователей и администраторов через телеграм.</b>
 - Стек: FastAPI, Tortoise ORM, aiogram
 - Разобрался с Tortoise ORM
 - Улучшил понимание асинхронности в python
